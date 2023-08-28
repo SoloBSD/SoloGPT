@@ -5,7 +5,7 @@ import gradio as gr
 import os
 import sys
 
-os.environ['OPENAI_API_KEY'] = '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' # noqa
+os.environ['OPENAI_API_KEY'] = '--your key here --' # noqa
 
 
 def construct_index(directory_path):
